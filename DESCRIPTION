@@ -5,7 +5,9 @@ Version: 1.0
 Date: 2012-09-18
 Author: Dason Kurkiewicz
 Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
-Description: This package helps you find the sos package
+Description: This package helps you find the sos package.
+Now Jake will never have to wonder what package it is that he is looking
+for again.
 License: MIT
 Collate:
     'onload.R'
