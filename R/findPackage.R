@@ -6,5 +6,5 @@
 #' @examples
 #' findPackage()
 findPackage <- function(){
-    print("You want the sos package")
+    cat("You want the sos package\n")
 }
