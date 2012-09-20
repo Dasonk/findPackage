@@ -1,3 +1,3 @@
 .onLoad <- function(libname, pkgname){
-    message("You want the sos package")
+    packageStartupMessage("You want the sos package")
 }
