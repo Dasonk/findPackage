@@ -8,6 +8,8 @@ Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
 Description: This package helps you find the sos package.
     Now Jake will never have to wonder what package it is that he is looking
     for again.
+Suggests:
+    sos
 License: MIT
 Collate:
     'onload.R'
