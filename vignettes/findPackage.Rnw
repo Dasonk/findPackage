@@ -20,6 +20,9 @@ This is an example session using findPackage:
 <<example>>=
 library(findPackage)
 findPackage()
+# That's right! It was sos!
+library(sos)
+#???"robust regression"
 @
 
 
