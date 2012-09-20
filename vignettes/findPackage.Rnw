@@ -2,7 +2,7 @@
 \documentclass{article}
 
 \begin{document}
-\SweaveOpts{concordance=TRUE}
+%\SweaveOpts{concordance=TRUE}
 
 \title{findPackage: The only package you'll ever need.}
 \date{\today}
