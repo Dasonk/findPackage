@@ -1,0 +1,26 @@
+%\VignetteIndexEntry{findPackage}
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\title{findPackage: The only package you'll ever need.}
+\date{\today}
+\author{Dason Kurkiewicz}
+\maketitle
+
+\section{Introduction}
+
+On startup you should receive a message that tells you that you want the sos package.
+
+If that isn't clear enough there is also a function provided called 'findPackage' that you can run at any time.
+
+This is an example session using findPackage:
+
+<<example>>=
+library(findPackage)
+findPackage()
+@
+
+
+\end{document}
